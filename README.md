@@ -4,7 +4,7 @@
 ![RU_Hacks](Repository-Assests/Cover.png) 
 
 ## Inspiration💡
-The idea of not being at the moment or the place but expericing it virtually has always been exciting. Imagine an app that captures photos and converts it into a panoramic view, so that a person can enjoy by not actually being present at the particular moment.
+While teaching my toddler cousin "A for apple, B for ball " my cousin was not intrested at all but just wanted to play on phone as most of the toddlers these days in addition to this he was constantly asking me questions like, what is "U for umbrella" , "Y for yatch", etc. Hence, that's when it stuct it would be much intresting for the toddler and their age group if such things were taught visually. 
 
 ## What it does 🧭
 
