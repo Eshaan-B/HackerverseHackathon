@@ -40,3 +40,12 @@ Using Openscreen we generate dynamic QR values, which are then fetched through t
 
 1. Sort the events in ascending order so people can understand the timelines better. 
 2. Build the same Prototype as a Hub so multiple universities/organisations can use our platform. 
+
+## Developers
+
+| Members                                               |
+| ----------------------------------------------------- |
+| [Eshaan Bhardwaj](https://github.com/Eshaan-B)        |
+| [Gyanesh Samanta](https://github.com/gyaneshsamanta)  |
+| [Aditya Kumar](https://github.com/ak8476)             |
+| [Yashodhana Shukla](https://github.com/Yashu6600)     |
