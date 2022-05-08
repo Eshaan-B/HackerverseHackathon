@@ -1,5 +1,5 @@
-# RU Hacks 2022
-### Official submission to RU Hacks 2022 by Team WinNow
+# Hackerverse 2022
+### Official submission to Hackerverse 2022 by Team FluttAR
 
 ![RU_Hacks](Repository-Assests/Cover.png) 
 
