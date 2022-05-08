@@ -1,45 +1,45 @@
 # Hackerverse 2022
 ### Official submission to Hackerverse 2022 by Team FluttAR
 
-![RU_Hacks](Repository-Assests/Cover.png) 
+![Hackerverse](Repository-Assests/Cover.png) 
 
 ## Inspiration💡
-While teaching my toddler cousin "A for apple, B for ball " my cousin was not intrested at all but just wanted to play on phone as most of the toddlers these days in addition to this he was constantly asking me questions like, what is "U for umbrella" , "Y for yatch", etc. Hence, that's when it stuct it would be much intresting for the toddler and their age group if such things were taught visually. 
+While teaching my toddler cousin "A for apple, B for ball " my cousin was not intrested at all but just wanted to play on the phone as most of the toddlers these days. In addition to this he constantly asked me questions like, what is "U for umbrella" , "Y for yatch", etc. Hence, that's when it struck to me that it would be much intresting for the toddler and their age group if such things were taught visually. 
 
 ## What it does 🧭
 
-Our solution, the user can visit the places vircually by using just an image. The application will take an image from the user and will show it in a virtual panoramic view where the user will be able to view left and right by rotating their smartphone.
+Using our solution, we teach a toddler on alphabets and common objects associated with it with the help of AR. When the child clicks on a letter of the english alphabet then the object associated with the letter shows up as a model on the screen. This keeps the toddler interested in learning whilst he/she thinks that they have been playing around on the phone. 
 
 ## How we built it 🔧
-Using Openscreen we generate dynamic QR values, which are then fetched through the Openscreen API to our local host. The QR data is fetched as an object which contains various details ranging from QR id, date of creation etc. When our Frontend (React Web app) is opened by the user, the data is fetched from the QR-images section and it displays the name of the events, date of the events and the QR image which you can scan to enroll yourself in the events.  
+
+Using EchoAR, HTML and CSS we built this platform. Using EchoAR we were able to visualize those models in AR at a open space. The front end side of things basically act as a medium for people to be able to access our application. 
 
 ## Tech Stack 🔨
-1. Flutter
-2. Provider State Management
-3. Flutter AR Kit
+1. Echo AR
+2. HTML
+3. CSS
 4. Git
 5. GitHub
+6. AR.js
 
 ## Challenges we ran into 🏃‍♂️
 
-1. To get the QR as images instead of object files with data was a challenge for us.
-2. To post the QR codes from Openscreen to our React web application was difficult as we faced multiple issues in the integration. 
+1. Getting the models integrated with the letters of the english alphabet was a challenge for us given the time crunch.
+2. Looking for resources that had VR models was a challenge  
 
 ## Accomplishments that we're proud of 🏅
-1. Created a working prototype where the QR codes are succesfully fetched and posted to our front end. 
-2. Build the project use MERN stack which is our first time working in a MERN stack project. 
+1. Made the working prototype
 
 ## What we learned 🧠
-1. Openscreen method of QR generation.
-2. Openscreen API to fetch and post QR codes to our Webapplication.
-3. Node.js packages and their use. 
+1. The difference between MR, AR, VR and XR.
+2. How VR and MR can influence future applications.
+3. Echo AR and it's use
 
 
 
 ## What's next ⏭
 
-1. Sort the events in ascending order so people can understand the timelines better. 
-2. Build the same Prototype as a Hub so multiple universities/organisations can use our platform. 
+1. Add in more letters of the English Alphabet
 
 ## Developers
 
@@ -48,9 +48,3 @@ Using Openscreen we generate dynamic QR values, which are then fetched through t
 3. [Aditya Kumar](https://github.com/ak8476)
 4. [Yashodhana Shukla](https://github.com/Yashu6600)
 
-| Members                                               |
-| ----------------------------------------------------- |
-| [Eshaan Bhardwaj](https://github.com/Eshaan-B)        |
-| [Gyanesh Samanta](https://github.com/gyaneshsamanta)  |
-| [Aditya Kumar](https://github.com/ak8476)             |
-| [Yashodhana Shukla](https://github.com/Yashu6600)     |
